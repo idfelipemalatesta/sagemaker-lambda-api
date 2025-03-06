@@ -3,7 +3,7 @@
 Projeto desenvolvido durante a pós-graduação em Engenharia de Machine Learning pela [Data Science Academy](https://www.datascienceacademy.com.br/).
 
 - Arquitetura do Projeto
-- Arquivos (Jupyter + Python - Lambda)
+- Arquivos (Jupyter + Lambda)
 - Documentação do Projeto
 
 <img src="images/diagrama.png">
